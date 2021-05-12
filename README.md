@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/BrownyProd)
-
+<img src="https://img.shields.io/github/followers/BrownyProd?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
 <!--
 **BrownyProd/BrownyProd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
